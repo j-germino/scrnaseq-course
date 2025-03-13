@@ -1,6 +1,6 @@
 # scrnaseq-course
 
-Jupyter notebook files for 2023 single-cell RNA sequencing data anaylsis UCSF Diabetes Center bootcamp. Intended to be run on sub-sampled mTEC dataset in google colab.
+Jupyter notebook files for 2023 single-cell RNA sequencing data anaylsis UCSF Diabetes Center bootcamp. Intended to be run on the provided sub-sampled mTEC dataset in google colab.
 
 0_intro_to_python.ipynb - Introductory tutorial on programming in python  
 1_scanpy_data_preprocessing.ipynb - Best practices QC preprocessing steps for single-cell RNA-seq datasets  
